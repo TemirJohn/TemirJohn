@@ -34,7 +34,9 @@ ___
 <div align="center">
  
 [![HTML](https://img.shields.io/badge/-telegram-070404?style=for-the-badge&logo=telegram&logoColor=3772a2)](https://t.me/TemirJhon)
-[![HTML]([https://img.shields.io/badge/-telegram-070404?style=for-the-badge&logo=telegram&logoColor=3772a2(https://img.shields.io/badge/-whatsapp-070404?style=for-the-badge&logo=whatsapp))](https://wa.me/+77718412614)
+[![HTML](https://img.shields.io/badge/-whatsapp-070404?style=for-the-badge&logo=whatsapp&logoColor=3772a2)](https://wa.me/87718412614)
+
+
 
 
 </div>
